@@ -1,0 +1,15 @@
+C:\Users\pijer\Downloads\td2-master\Stackpanel\bin\Debug\TD2.exe.config
+C:\Users\pijer\Downloads\td2-master\Stackpanel\bin\Debug\TD2.exe
+C:\Users\pijer\Downloads\td2-master\Stackpanel\bin\Debug\TD2.pdb
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\Stackpanel.csproj.AssemblyReference.cache
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\MainWindow.g.cs
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\App.g.cs
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\TD2_MarkupCompile.cache
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\TD2_MarkupCompile.lref
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\MainWindow.baml
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\TD2.g.resources
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\TD2.Properties.Resources.resources
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\Stackpanel.csproj.GenerateResource.cache
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\Stackpanel.csproj.CoreCompileInputs.cache
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\TD2.exe
+C:\Users\pijer\Downloads\td2-master\Stackpanel\obj\Debug\TD2.pdb
